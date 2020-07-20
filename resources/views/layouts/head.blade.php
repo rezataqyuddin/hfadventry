@@ -6,7 +6,7 @@
     <!-- <link rel="icon" href="img/favicon.ico"> -->
     <!-- CSS FILES -->
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/uikit@latest/dist/css/uikit.min.css">
-    <!-- <link rel="stylesheet" type="text/css" href="{{ asset('css/override.css')}}"> -->
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/override.css')}}">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
     <!-- <script src="{{ asset('uikit/css/style.css') }}" type="text/javascript"></script> -->
